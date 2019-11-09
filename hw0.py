@@ -92,6 +92,7 @@ def sumstr(num:str):
         sum*=-1
     return sum
 
+
 import unittest
 class testsumstr(unittest.TestCase):
     def testnegative(self):
