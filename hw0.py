@@ -92,7 +92,7 @@ def sumstr(num:str):
         sum*=-1
     return sum
 
-#just check commit and push
+
 import unittest
 class testsumstr(unittest.TestCase):
     def testnegative(self):
